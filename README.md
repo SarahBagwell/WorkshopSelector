@@ -13,7 +13,7 @@ A simple application that allows an end-user to see their total cost(s) utilizin
 
 - <b>Microsoft Visual Studio</b> (2022 Community)
 
-<h2>Program walk-through:</h2>
+<h2>Form Walk-Through:</h2>
 
 <p align="center">
 Initial Form Upon Startup: <br/>
@@ -34,13 +34,3 @@ Clearing the Form, User Can Select Exit Button if Done: <br/>
 <img src="https://i.imgur.com/cV4EZ0y.png" height="80%" width="80%" alt="Clearing the Form"/>
 <br />
 <br />
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

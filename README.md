@@ -9,7 +9,7 @@ A simple application that allows an end-user to see their total cost(s) utilizin
 
 - <b>C#</b> 
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Microsoft Visual Studio</b> (2022 Community)
 
